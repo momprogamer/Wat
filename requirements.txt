@@ -1,0 +1,5 @@
+python-telegram-bot==20.6
+aiohttp==3.9.1
+pythonping==1.1.4
+psycopg2-binary==2.9.9   # Si usas PostgreSQL en producción
+python-dotenv==1.0.0     # Para entorno local
