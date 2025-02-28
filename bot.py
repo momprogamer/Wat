@@ -18,7 +18,7 @@ import pythonping
 import socket
 
 # Configuración inicial
-TOKEN = "TU_TOKEN"
+TOKEN = "7725269349:AAGuTEMxnYYre1AA4BcO-_RL7N7Rz-cI3iU"
 CHECK_INTERVAL = 60
 ADMIN_CHAT_ID = None
 DATABASE_NAME = "watchbot.db"
